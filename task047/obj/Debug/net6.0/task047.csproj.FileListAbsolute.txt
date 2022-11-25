@@ -1,0 +1,15 @@
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/bin/Debug/net6.0/task047
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/bin/Debug/net6.0/task047.deps.json
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/bin/Debug/net6.0/task047.runtimeconfig.json
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/bin/Debug/net6.0/task047.dll
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/bin/Debug/net6.0/task047.pdb
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/obj/Debug/net6.0/task047.csproj.AssemblyReference.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/obj/Debug/net6.0/task047.GeneratedMSBuildEditorConfig.editorconfig
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/obj/Debug/net6.0/task047.AssemblyInfoInputs.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/obj/Debug/net6.0/task047.AssemblyInfo.cs
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/obj/Debug/net6.0/task047.csproj.CoreCompileInputs.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/obj/Debug/net6.0/task047.dll
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/obj/Debug/net6.0/refint/task047.dll
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/obj/Debug/net6.0/task047.pdb
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/obj/Debug/net6.0/task047.genruntimeconfig.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework07/task047/obj/Debug/net6.0/ref/task047.dll

@@ -1,0 +1,15 @@
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/bin/Debug/net6.0/task08
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/bin/Debug/net6.0/task08.deps.json
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/bin/Debug/net6.0/task08.runtimeconfig.json
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/bin/Debug/net6.0/task08.dll
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/bin/Debug/net6.0/task08.pdb
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/obj/Debug/net6.0/task08.csproj.AssemblyReference.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/obj/Debug/net6.0/task08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/obj/Debug/net6.0/task08.AssemblyInfoInputs.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/obj/Debug/net6.0/task08.AssemblyInfo.cs
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/obj/Debug/net6.0/task08.csproj.CoreCompileInputs.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/obj/Debug/net6.0/task08.dll
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/obj/Debug/net6.0/refint/task08.dll
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/obj/Debug/net6.0/task08.pdb
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/obj/Debug/net6.0/task08.genruntimeconfig.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework01_Diana_Moroz/task08/obj/Debug/net6.0/ref/task08.dll

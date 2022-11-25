@@ -1,0 +1,15 @@
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/obj/Debug/net6.0/task013.csproj.AssemblyReference.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/obj/Debug/net6.0/task013.GeneratedMSBuildEditorConfig.editorconfig
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/obj/Debug/net6.0/task013.AssemblyInfoInputs.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/obj/Debug/net6.0/task013.AssemblyInfo.cs
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/obj/Debug/net6.0/task013.csproj.CoreCompileInputs.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/bin/Debug/net6.0/task013
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/bin/Debug/net6.0/task013.deps.json
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/bin/Debug/net6.0/task013.runtimeconfig.json
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/bin/Debug/net6.0/task013.dll
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/bin/Debug/net6.0/task013.pdb
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/obj/Debug/net6.0/task013.dll
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/obj/Debug/net6.0/refint/task013.dll
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/obj/Debug/net6.0/task013.pdb
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/obj/Debug/net6.0/task013.genruntimeconfig.cache
+/Users/di/Desktop/geekbrains/Знакомство с языками программирования С#/Homework02_Diana_Moroz/task013/obj/Debug/net6.0/ref/task013.dll
